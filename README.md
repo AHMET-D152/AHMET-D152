@@ -105,10 +105,40 @@ CUDA accelerated filters, vision tests, and GPU benchmarks.
 
 ## 📬 Contact
 
-- 📧 **Email:** dogru3475@gmail.com  
-- 💬 **Discord:** gokboru75  
-- 📸 **Instagram:** ahmet__dogru0  
-- 🤖 **Akana Robotics Team Instagram:** akanarobotics  
+<p align="center">
+
+  <a href="mailto:dogru3475@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="24px" />
+    <span>&nbsp;<b>Email</b></span>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://discord.com/users/gokboru75">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="24px" />
+    <span>&nbsp;<b>Discord</b></span>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/ahmet__dogru0">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="24px" />
+    <span>&nbsp;<b>Instagram</b></span>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/akanarobotics">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" width="24px" />
+    <span>&nbsp;<b>Akana Robotics</b></span>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/ahmet-doğru-65799a244">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24px" />
+    <span>&nbsp;<b>LinkedIn</b></span>
+  </a>
+
+</p>
+
+
 
 ---
 
