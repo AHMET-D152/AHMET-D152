@@ -98,7 +98,9 @@ CUDA accelerated filters, vision tests, and GPU benchmarks.
 
 <!-- ====================== GITHUB STATS ====================== -->
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AHMET-D152&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+</p>
 
 
 <!-- ====================== CONTACT ====================== -->
@@ -137,6 +139,8 @@ CUDA accelerated filters, vision tests, and GPU benchmarks.
   </a>
 
 </p>
+
+
 
 
 
