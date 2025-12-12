@@ -74,8 +74,9 @@
 ### 🔹 AUV Autonomous Underwater Vehicle
 <img src="https://cdn.discordapp.com/attachments/1443342870462595086/1448379867489108129/Ekran_goruntusu_2025-07-18_230823.png?ex=693b0c5e&is=6939bade&hm=9cbe650791a075380aaf49988f67ed363f0c796e67676aa594e4359ce3d58572&" width="500">
 
-**Status:** *(project coming soon…)*  
-Code is being refactored and cleaned up.  
+**Status:** *Work continues*  
+[![AUV Project](https://img.shields.io/badge/AUV_Project-Open-blue?style=for-the-badge)](https://github.com/AHMET-D152/AUV-Robot)
+  
 Jetson Orin Nano + Pixhawk Cube Orange + ROS2 + PID + IMU fusion.
 
 ---
